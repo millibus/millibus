@@ -1,66 +1,37 @@
-# 🥸 Hey, I'm Stache
+# millibus
 
-**Developer & Solutions Architect**  
-*Named after a distinguished feline engineer*
+Hi — I'm a developer focused on practical tooling, dashboards, and indie game projects.
 
----
+## Spotlight
 
-## 🛠️ Tech Stack
+### screen-snip-manager (SHOWCASE)
+Native macOS menu-bar clipboard manager built with Swift & SwiftUI.
+- Production-quality macOS app with fuzzy search, pinned snippets, tags, and sensitive-data handling.
+- Ideal if you want a fast, native clipboard utility that respects privacy and scales beyond a simple clipboard helper.
+- Repo: https://github.com/millibus/screen-snip-manager
 
-**Frontend & UI**
-- TypeScript, React, Next.js
-- Modern responsive design
-- Dashboard development
+### m365-roadmap-dashboard (FEATURE)
+Visual dashboard tracking Microsoft 365 roadmap updates and changes.
+- Built with JavaScript and deployed via GitHub Pages / Cloudflare Workers.
+- Repo: https://github.com/millibus/m365-roadmap-dashboard
 
-**Backend & APIs** 
-- Node.js, Express, Python
-- REST API integration
-- Real-time data processing
+## Other notable projects
+- model-observatory — Vite + TypeScript app for observing and comparing AI model outputs. (https://github.com/millibus/model-observatory)
+- LarsenAnalytics — PAGA compliance calculator (Python) for California payroll rules. (https://github.com/millibus/LarsenAnalytics)
+- house-edge — Co-op horror roguelite (Godot + Node.js). (https://github.com/millibus/house-edge)
+- wow-dashboard — Guild dashboard for Deaths Edge. (https://github.com/millibus/wow-dashboard)
+- git-cheatsheet — Single-file Git reference published on GitHub Pages. (https://github.com/millibus/git-cheatsheet)
+- nwphl-website — Next.js site for NWPHL league. (https://github.com/millibus/nwphl-website)
 
-**Tools & Platforms**
-- Git version control
-- Docker containerization  
-- Automation & CI/CD
-- Cloud deployment
+## Bio
+I build developer tools, dashboards, and games — a mix of native macOS apps, TypeScript web UIs, and small Python utilities. I prefer shipping things that solve a real workflow problem: fast, usable, and maintainable.
 
----
+Tech stack: Swift, SwiftUI, TypeScript, React/Next.js, Python, Godot (GDScript), Node.js
 
-## 📊 Featured Projects
+## How to find things
+- Code: https://github.com/millibus
+- Open-source demos and dashboards: check the repos above for live demos or GitHub Pages links where available.
 
-### 🚀 [Copilot Intelligence Hub](https://github.com/millibus/copilot-dashboard)
-Real-time dashboard aggregating Microsoft 365 Copilot updates and resources
-- **Tech:** JavaScript, Node.js, Express
-- **Features:** Automated data collection, real-time updates, modern UI
+## Want to collaborate?
+Open an issue or send a PR — I review practical, well-scoped contributions.
 
-### 🤖 [LLM Council UI](https://github.com/millibus/llm-council-ui)  
-Custom interface for multi-model AI conversations
-- **Tech:** Python, Flask, Custom UI
-- **Features:** Model comparison, conversation management
-
-### 📈 Analytics & Business Tools
-Various Python-based calculators and analysis tools
-- Payroll deduction systems
-- Business process automation
-- Data visualization
-
----
-
-## 🎯 What I'm About
-
-I specialize in building **intelligent dashboards** and **automation tools** that make complex data accessible and actionable. Whether it's aggregating enterprise updates, creating AI interfaces, or streamlining business processes, I focus on solutions that actually get used.
-
-**Current focus:** AI-powered development tools and real-time intelligence platforms.
-
----
-
-## 📫 Let's Connect
-
-Building something interesting? Always open to collaborate on projects involving:
-- Dashboard development
-- API integration  
-- Data visualization
-- Process automation
-
----
-
-*"Code with whiskers, debug with precision"* 🐱‍💻
